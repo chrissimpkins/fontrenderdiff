@@ -1,0 +1,8 @@
+# ignore OS X metadata
+.DS_Store
+
+# ignore build directory
+/build/
+
+# current Xcode user state - not relevant to project
+xcuserdata
