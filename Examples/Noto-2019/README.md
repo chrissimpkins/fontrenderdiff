@@ -1,0 +1,1 @@
+The fonts in this directory are owned by Google Inc. and licensed under the SIL Open Font License, version 1.1. They are in the versions publicly available from Google’s [Noto fonts project](https://github.com/googlefonts/noto-fonts) late May 2019.
