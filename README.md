@@ -1,8 +1,6 @@
 # FontRenderDiff
 
-**This project, with the exception of the Noto-2019 directory, is confidential information of Lindenberg Software LLC.**
-
-This project provides the command line FontRenderDiff, which produces font proof images that can be used to verify, document, and track over time the rendering results of a font. The tool uses the CoreText APIs on macOS.
+This project provides the command line tool FontRenderDiff, which produces font proof images that can be used to verify, document, and track over time the rendering results of a font. The tool uses the CoreText APIs on macOS.
 
 The tool takes three or four arguments:
 
